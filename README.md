@@ -42,7 +42,7 @@ The notebooks are ready to run in Google Colab, but you can also execute them lo
 
 ### Step 1: Get the Repository
 
-Clone the repository using Git (replace `yourusername/your-repo-name` with your actual repository details):
+Clone the repository using Git:
 
 ```bash
 git clone https://github.com/ahmadubaid061/Al-Python
