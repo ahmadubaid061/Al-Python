@@ -45,7 +45,7 @@ The notebooks are ready to run in Google Colab, but you can also execute them lo
 Clone the repository using Git (replace `yourusername/your-repo-name` with your actual repository details):
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ahmadubaid061/Al-Python
 ```
 
 Alternatively, you can download the ZIP archive from GitHub and extract it.
@@ -108,7 +108,3 @@ pip install -r requirements.txt
 If you find issues or want to suggest improvements, feel free to open an issue or submit a pull request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
