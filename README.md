@@ -102,9 +102,3 @@ pip install -r requirements.txt
 - **Running in Colab directly:** You can always upload the `.ipynb` file to [Google Colab](https://colab.research.google.com/) and run it there without any local setup.
 
 ---
-
-## Contributing
-
-If you find issues or want to suggest improvements, feel free to open an issue or submit a pull request.
-
----
