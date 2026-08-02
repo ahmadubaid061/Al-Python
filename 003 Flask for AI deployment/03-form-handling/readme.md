@@ -1,7 +1,3 @@
-Here's a simple README for your Flask form handling code:
-
----
-
 # Flask Form Handling Example
 
 A simple Flask application demonstrating how to handle HTML form input using POST requests.
