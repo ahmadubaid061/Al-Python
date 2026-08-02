@@ -1,0 +1,212 @@
+[
+    {
+        "Teacher_ID": "T001",
+        "Teacher_Name": "Phillip Collins",
+        "Subject_ID": "SUB001",
+        "Subject_Name": "Economics",
+        "Email": "cwood@russell-allen.com"
+    },
+    {
+        "Teacher_ID": "T002",
+        "Teacher_Name": "Patrick Ford",
+        "Subject_ID": "SUB002",
+        "Subject_Name": "Physics",
+        "Email": "mmason@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T003",
+        "Teacher_Name": "Arthur Johnson",
+        "Subject_ID": "SUB003",
+        "Subject_Name": "Statistics",
+        "Email": "alexandra73@gmail.com"
+    },
+    {
+        "Teacher_ID": "T004",
+        "Teacher_Name": "Vanessa Le",
+        "Subject_ID": "SUB004",
+        "Subject_Name": "Statistics",
+        "Email": "umurphy@hutchinson-page.com"
+    },
+    {
+        "Teacher_ID": "T005",
+        "Teacher_Name": "Susan Sherman",
+        "Subject_ID": "SUB005",
+        "Subject_Name": "Physics",
+        "Email": "brian66@hotmail.com"
+    },
+    {
+        "Teacher_ID": "T006",
+        "Teacher_Name": "Andrew Johnson",
+        "Subject_ID": "SUB006",
+        "Subject_Name": "Biology",
+        "Email": "allison84@cabrera-khan.com"
+    },
+    {
+        "Teacher_ID": "T007",
+        "Teacher_Name": "Dr. Rebecca Taylor",
+        "Subject_ID": "SUB007",
+        "Subject_Name": "AI",
+        "Email": "brian24@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T008",
+        "Teacher_Name": "Laura Navarro",
+        "Subject_ID": "SUB008",
+        "Subject_Name": "Mathematics",
+        "Email": "robinsonjason@moreno.biz"
+    },
+    {
+        "Teacher_ID": "T009",
+        "Teacher_Name": "Nicole White",
+        "Subject_ID": "SUB009",
+        "Subject_Name": "Chemistry",
+        "Email": "ashley20@gmail.com"
+    },
+    {
+        "Teacher_ID": "T010",
+        "Teacher_Name": "Melanie Rodriguez",
+        "Subject_ID": "SUB010",
+        "Subject_Name": "English",
+        "Email": "raymondsamantha@zimmerman.biz"
+    },
+    {
+        "Teacher_ID": "T011",
+        "Teacher_Name": "Madison Lindsey",
+        "Subject_ID": "SUB011",
+        "Subject_Name": "Computer Science",
+        "Email": "jason41@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T012",
+        "Teacher_Name": "Timothy Wolfe",
+        "Subject_ID": "SUB012",
+        "Subject_Name": "Physics",
+        "Email": "xschultz@lucero.com"
+    },
+    {
+        "Teacher_ID": "T013",
+        "Teacher_Name": "Denise Rivers",
+        "Subject_ID": "SUB013",
+        "Subject_Name": "Mathematics",
+        "Email": "merrittmichaela@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T014",
+        "Teacher_Name": "Steven Mathews",
+        "Subject_ID": "SUB014",
+        "Subject_Name": "Biology",
+        "Email": "ryanjustin@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T015",
+        "Teacher_Name": "Jordan Townsend",
+        "Subject_ID": "SUB015",
+        "Subject_Name": "Mathematics",
+        "Email": "jessica03@browning.com"
+    },
+    {
+        "Teacher_ID": "T016",
+        "Teacher_Name": "Gary Nguyen",
+        "Subject_ID": "SUB016",
+        "Subject_Name": "Computer Science",
+        "Email": "gonzalesjillian@walsh-garcia.com"
+    },
+    {
+        "Teacher_ID": "T017",
+        "Teacher_Name": "Cassandra Soto",
+        "Subject_ID": "SUB017",
+        "Subject_Name": "Chemistry",
+        "Email": "bruce32@lopez-griffith.com"
+    },
+    {
+        "Teacher_ID": "T018",
+        "Teacher_Name": "Matthew Davis",
+        "Subject_ID": "SUB018",
+        "Subject_Name": "Biology",
+        "Email": "lindahunter@jones.com"
+    },
+    {
+        "Teacher_ID": "T019",
+        "Teacher_Name": "Catherine Hall",
+        "Subject_ID": "SUB019",
+        "Subject_Name": "Database Systems",
+        "Email": "christopher15@gmail.com"
+    },
+    {
+        "Teacher_ID": "T020",
+        "Teacher_Name": "Stephen Adams",
+        "Subject_ID": "SUB020",
+        "Subject_Name": "Chemistry",
+        "Email": "mortonchristopher@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T021",
+        "Teacher_Name": "Johnny Diaz",
+        "Subject_ID": "SUB021",
+        "Subject_Name": "AI",
+        "Email": "charleshampton@forbes-garcia.org"
+    },
+    {
+        "Teacher_ID": "T022",
+        "Teacher_Name": "Courtney Wright",
+        "Subject_ID": "SUB022",
+        "Subject_Name": "AI",
+        "Email": "amanda96@andrews-moyer.com"
+    },
+    {
+        "Teacher_ID": "T023",
+        "Teacher_Name": "Walter Boyer",
+        "Subject_ID": "SUB023",
+        "Subject_Name": "Computer Science",
+        "Email": "christopherevans@jones-frost.biz"
+    },
+    {
+        "Teacher_ID": "T024",
+        "Teacher_Name": "Deanna Rodriguez",
+        "Subject_ID": "SUB024",
+        "Subject_Name": "Economics",
+        "Email": "charlesmcbride@reynolds-scott.com"
+    },
+    {
+        "Teacher_ID": "T025",
+        "Teacher_Name": "Laura Fuller",
+        "Subject_ID": "SUB025",
+        "Subject_Name": "Chemistry",
+        "Email": "meghan63@gmail.com"
+    },
+    {
+        "Teacher_ID": "T026",
+        "Teacher_Name": "Joseph Ramirez",
+        "Subject_ID": "SUB026",
+        "Subject_Name": "Economics",
+        "Email": "elizabeth99@roberts.com"
+    },
+    {
+        "Teacher_ID": "T027",
+        "Teacher_Name": "Charles Luna",
+        "Subject_ID": "SUB027",
+        "Subject_Name": "Computer Science",
+        "Email": "jasonhuffman@hotmail.com"
+    },
+    {
+        "Teacher_ID": "T028",
+        "Teacher_Name": "Kenneth Mccarthy",
+        "Subject_ID": "SUB028",
+        "Subject_Name": "Computer Science",
+        "Email": "martinjasmine@thompson.com"
+    },
+    {
+        "Teacher_ID": "T029",
+        "Teacher_Name": "Todd Mendoza",
+        "Subject_ID": "SUB029",
+        "Subject_Name": "English",
+        "Email": "lblackwell@yahoo.com"
+    },
+    {
+        "Teacher_ID": "T030",
+        "Teacher_Name": "Suzanne Hogan",
+        "Subject_ID": "SUB030",
+        "Subject_Name": "AI",
+        "Email": "jonesbreanna@thomas.com"
+    }
+]
