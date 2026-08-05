@@ -9,9 +9,15 @@ def input():
 
 @app.route('/submit',methods=['POST'])
 def submit():
-    first_name=request.form['first-name']
+    first_name=request.form['first-name'] #request.form.get("user-name)
     last_name=request.form['last-name']
     return f'Hello {first_name} {last_name}'
+'''
+note! request.form['first-name'] will return an error if username is nul
+but if you want to ignore null and use a safe method then you can use
+request.form.get("user-name)
+'''
+
     
 
 if __name__=='__main__':
