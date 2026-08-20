@@ -1,6 +1,4 @@
-Here's a short and simple README for your directory:
 
----
 
 # 01.3 Importing and Exporting Files
 
