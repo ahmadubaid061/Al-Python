@@ -1,0 +1,122 @@
+[
+  {
+    "Student_ID":"S001",
+    "Student_Name":"Robert Haney",
+    "Degree":"BBA",
+    "Age":25.0
+  },
+  {
+    "Student_ID":"S002",
+    "Student_Name":"Logan Moore",
+    "Degree":"BS Computer Science",
+    "Age":26.0
+  },
+  {
+    "Student_ID":"S004",
+    "Student_Name":"Tommy Faulkner",
+    "Degree":"BS Software Engineering",
+    "Age":18.0
+  },
+  {
+    "Student_ID":"S005",
+    "Student_Name":"Roger Carroll",
+    "Degree":"BS Computer Science",
+    "Age":19.0
+  },
+  {
+    "Student_ID":"S007",
+    "Student_Name":"Edward George",
+    "Degree":"BS Computer Science",
+    "Age":22.0
+  },
+  {
+    "Student_ID":"S008",
+    "Student_Name":"Nathan Moore",
+    "Degree":"BS Computer Science",
+    "Age":21.0
+  },
+  {
+    "Student_ID":"S010",
+    "Student_Name":"Brian Taylor",
+    "Degree":"BS Computer Science",
+    "Age":22.0
+  },
+  {
+    "Student_ID":"S011",
+    "Student_Name":"Lisa Barnett",
+    "Degree":"BS Software Engineering",
+    "Age":19.0
+  },
+  {
+    "Student_ID":"S012",
+    "Student_Name":"Brandon Valentine",
+    "Degree":"BS AI",
+    "Age":25.0
+  },
+  {
+    "Student_ID":"S014",
+    "Student_Name":"Matthew Washington",
+    "Degree":"BS IT",
+    "Age":22.0
+  },
+  {
+    "Student_ID":"S015",
+    "Student_Name":"Mr. Reginald White",
+    "Degree":"BS AI",
+    "Age":24.0
+  },
+  {
+    "Student_ID":"S017",
+    "Student_Name":"Matthew Lucero",
+    "Degree":"BS Software Engineering",
+    "Age":25.0
+  },
+  {
+    "Student_ID":"S018",
+    "Student_Name":"Richard Garrison",
+    "Degree":"BS Computer Science",
+    "Age":19.0
+  },
+  {
+    "Student_ID":"S020",
+    "Student_Name":"Samantha Jones",
+    "Degree":"BS Computer Science",
+    "Age":22.0
+  },
+  {
+    "Student_ID":"S021",
+    "Student_Name":"Kelly Johnson",
+    "Degree":"BS Software Engineering",
+    "Age":23.0
+  },
+  {
+    "Student_ID":"S023",
+    "Student_Name":"Bryan Espinoza DVM",
+    "Degree":"BS Computer Science",
+    "Age":23.0
+  },
+  {
+    "Student_ID":"S024",
+    "Student_Name":"Courtney Perez",
+    "Degree":"BBA",
+    "Age":20.0
+  },
+  {
+    "Student_ID":"S026",
+    "Student_Name":"Peter Horn",
+    "Degree":"BS AI",
+    "Age":21.0
+  },
+  {
+    "Student_ID":"S027",
+    "Student_Name":"Zachary Taylor",
+    "Degree":"BS AI",
+    "Age":22.0
+  },
+  {
+    "Student_ID":"S029",
+    "Student_Name":"Stephanie Mercado",
+    "Degree":"BS AI",
+    "Age":18.0
+  }
+]
