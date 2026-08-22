@@ -1,6 +1,6 @@
 age,bmi_category,sex,bmi,children,smoker,region,charges
 19,Normal,male,27.9,0,yes,northeast,16884.924
-18,Obese,female,33.77,1,no,northwest,1725.5523
+23,Underweight,female,17.385,1,no,southeast,2775.19215
 28,Obese,female,33.0,3,no,northwest,4449.462
 33,Normal,female,22.705,0,no,southeast,21984.47061
 32,Overweight,female,28.88,0,no,southeast,3866.8552
@@ -27,7 +27,7 @@ age,bmi_category,sex,bmi,children,smoker,region,charges
 59,Overweight,male,27.72,3,no,northwest,14001.1338
 63,Normal,male,23.085,0,no,southwest,14451.83515
 55,Obese,male,32.775,2,no,southeast,12268.63225
-23,Underweight,female,17.385,1,no,southeast,2775.19215
+18,Obese,female,33.77,1,no,northwest,1725.5523
 31,Obese,female,36.3,2,yes,northeast,38711.0
 22,Obese,female,35.6,0,yes,northeast,35585.576
 18,Overweight,male,26.315,0,no,southwest,2198.18985
